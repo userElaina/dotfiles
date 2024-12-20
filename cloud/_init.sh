@@ -1,6 +1,7 @@
 sudo apt update
 sudo apt upgrade
-sudo apt install screen tree
+sudo apt install screen tree vim git htop
+sudo apt install gcc g++ make cmake
 
 vim ~/.ssh/authorized_keys
 
